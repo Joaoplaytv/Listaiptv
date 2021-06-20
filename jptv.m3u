@@ -1,5 +1,13 @@
 #EXTM3U Listaiptv
 JoaoplaytvListaiptv
+#EXTINF:-1 tvg-logo="https://www.planoclin.com.br/images/canalCliente/canalCliente.png" group-title="INFORMAÇÕES",JPTV OFICIAL
+https://1259667713.vod2.myqcloud.com/fa6ac7b2vodtransuse1259667713/9023369e5285890807459694682/v.f30.mp4
+
+#EXTINF:-1 tvg-logo="https://www.planoclin.com.br/images/canalCliente/canalCliente.png" group-title="INFORMAÇÕES",LISTA PREMIUM
+https://videocdn.cos.tv/video/22752257853934592.mp4
+
+#EXTINF:-1 tvg-logo="https://www.planoclin.com.br/images/canalCliente/canalCliente.png" group-title="INFORMAÇÕES",RODA COM 3 MEGAS
+https://videocdn.cos.tv/video/22752823468149760.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
 http://rec2.distv.net:80/micheline/micheline/113
