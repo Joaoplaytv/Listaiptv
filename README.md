@@ -1,2 +1,0 @@
-# Listaiptv
-JoaoplaytvListaiptv
