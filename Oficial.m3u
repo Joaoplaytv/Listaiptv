@@ -10,57 +10,38 @@ https://videocdn.cos.tv/video/22752823468149760.mp4
 
 ################################################
 
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", MASHA E O URSO
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/755683
+#E#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 01
+http://rec2.distv.net:80/micheline/micheline/48
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 02
+http://rec2.distv.net:80/micheline/micheline/49
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 03
+http://rec2.distv.net:80/micheline/micheline/50
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 04
+http://rec2.distv.net:80/micheline/micheline/51
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 05
+http://rec2.distv.net:80/micheline/micheline/52
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 06
+http://rec2.distv.net:80/micheline/micheline/53
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 07
+http://rec2.distv.net:80/micheline/micheline/54
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 08
+http://rec2.distv.net:80/micheline/micheline/55
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 09
+http://rec2.distv.net:80/micheline/micheline/56
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
+http://rec2.distv.net:80/micheline/micheline/57
 
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", PATATI PATATA
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/755685
-
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS",OS SIMPSONS
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/755678
 
 
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", PICA PAU
-TURMA DA MONICA
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/715107
 
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", TURMA DA MONICA
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/755690
 
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", HE MAM
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/755699
 
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", TOM E JERRY
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/715100
+http:
 
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS",PEPPA PIG
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/715102
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://futemax.fm/wp-content/uploads/1a1d1dfa9d23e8c3cbce0288b739256c.jpg" group-ti
 
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", PATRULHA CANINA
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/715104
-
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", CHAVES
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/715110
-
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", 3 PALAVRINHAS
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/717100
-
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", DRAGON BALL SUPER
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/755669
-
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", CHAPOLIN
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/755676
-
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", CAVALHEIROS DO ZODIACO
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/715002
-
-#EXTINF:-1 tvg-logo="https://hostcorp.com.br/wp-content/uploads/2017/12/24_Horas_TVN_alt1.png" group-title="PLAY TV 24 HORAS", NARUTO
-http://stream-sky.cf/edvandro24h/4mRJSpRD1h/715098
-
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://futemax.fm/wp-content/uploads/1a1d1dfa9d23e8c3cbce0288b739256c.jpg" group-title="ABERTOS",A FAZENDA 12
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="ABERTOS",GLOBO SP SD
-http://rec2.distv.net:80/plinio/123/231
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="ABERTOS",GLOBO SP 
+http://rec2.distv.net:80/micheline/micheline/15
 
 
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="ABERTOS",GLOBO (MG)
